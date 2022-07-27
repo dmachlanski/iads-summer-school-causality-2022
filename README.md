@@ -2,10 +2,12 @@
 
 ## Agenda
 - Welcome and Introduction to the Course
-- Causal Inference using Machine Learning
+- Lecture: Causal Inference using Machine Learning
 - Short Break
-- Practical Part 1: Guided Example
+- Lecture: (continued)
 - Lunch Break
+- Practical Part 1: Guided Example
+- Short Break
 - Practical Part 2: Do It Yourself
 - Consolidation, Discussion and Next Steps
 
